@@ -9,6 +9,7 @@
     "convert",
     "binary"
   ],
+  "license": "GPL-3.0",
   "authors": [
     {
       "name": "Octavian Matei",
