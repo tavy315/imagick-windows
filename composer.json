@@ -1,0 +1,35 @@
+{
+  "name": "tavy315/imagick-windows",
+  "description": "ImageMagick-6.9.3-7-vc14-x86 binaries for Windows",
+  "keywords": [
+    "imagemagick",
+    "imagick",
+    "windows",
+    "identify",
+    "convert",
+    "binary"
+  ],
+  "authors": [
+    {
+      "name": "Octavian Matei",
+      "email": "octav@octav.name",
+      "homepage": "https://www.octav.name",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "bin": [
+    "bin/compare.exe",
+    "bin/composite.exe",
+    "bin/conjure.exe",
+    "bin/convert.exe",
+    "bin/dcraw.exe",
+    "bin/identify.exe",
+    "bin/IMDisplay.exe",
+    "bin/mogrify.exe",
+    "bin/montage.exe",
+    "bin/stream.exe"
+  ],
+  "require": {
+  }
+}
